@@ -1,5 +1,5 @@
 # JavaScript Drum Kit   
-The final result can be viewed [here]().   
+The demo can be viewed [here](https://ebaek88.github.io/JavaScript30/01-JavaScript_Drum_Kit/index.html).   
 
 I have implemented a Javascript Drum Kit based on [Wes Bos' lecture](https://youtu.be/VuN8qwZoego?si=7ChdwIjjAfftQKkn).   
 However, I refactored some parts of the code to comply with the current best practice.
